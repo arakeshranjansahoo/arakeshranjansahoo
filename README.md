@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riki1112
+- 👋 Hi, I’m @arakeshranjansahoo
 - 👀 I’m interested in pg
 - 🌱 I’m currently learning python pg 
 - 💞️ I’m looking to collaborate on learning
