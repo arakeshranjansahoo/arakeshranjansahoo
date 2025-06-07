@@ -95,16 +95,35 @@ interests:
 
 ---
 
-### 📊 GitHub Visual Activity
+---
 
-<h4 align="center">🌈 Contributions Calendar</h4>
+### 📊 GitHub Analytics with Progress & Timeline
+
+<h4 align="center">🗓 Year-wise Contribution Heatmap</h4>
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/arakeshranjansahoo.svg" />
+  <img src="https://github-contributions-api.deno.dev/arakeshranjansahoo.svg" alt="GitHub Contribution Calendar" />
 </p>
 
-<h4 align="center">📈 Metrics Dashboard</h4>
+<h4 align="center">🔥 GitHub Stats with Level Progress</h4>
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=arakeshranjansahoo&template=classic&config.timezone=Asia%2FKolkata" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arakeshranjansahoo&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
+</p>
+
+<h4 align="center">⏳ Contribution Over the Years (Filter)</h4>
+<p align="center">
+  <a href="https://github.com/arakeshranjansahoo?tab=overview&from=2021-01-01&to=2021-12-31">
+    <img src="https://img.shields.io/badge/2021-Contributions-orange?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/arakeshranjansahoo?tab=overview&from=2022-01-01&to=2022-12-31">
+    <img src="https://img.shields.io/badge/2022-Contributions-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/arakeshranjansahoo?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/2023-Contributions-green?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/arakeshranjansahoo?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024-Contributions-yellow?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
