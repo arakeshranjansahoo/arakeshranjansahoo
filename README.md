@@ -106,14 +106,16 @@ interests:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
 </p>
 
-<h3>🌆 GitHub Skyline</h3>
-<p align="center">
-  <a href="https://skyline.github.com/arakeshranjansahoo">
-    <img src="https://github.com/arakeshranjansahoo/arakeshranjansahoo/raw/main/assets/skyline-preview.png" width="600" alt="Click to see my 3D GitHub Skyline" />
-  </a>
-</p>
+🏁 Developer Milestones (All Verified)
+✅ Hackathon Winner — College Tech Fest 2023
 
+✅ Built & Deployed AI Chatbot — Blood Bond
 
+✅ ML Web Apps — Plant Disease Detection, Price Prediction
+
+✅ Certified — IBM, Accenture, Ybi Foundation
+
+🔄 Actively Learning — Azure, GitHub CI/CD, MLOps
 
 ---
 
