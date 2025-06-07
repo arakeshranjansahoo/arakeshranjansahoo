@@ -99,7 +99,6 @@ interests:
 
 ---
 
-### 🚀 GitHub Activity Highlights 
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -107,9 +106,11 @@ interests:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
 </p>
 
+<h3 align="center">📊 GitHub Activity Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arakeshranjansahoo&theme=react-dark" />
+  <img src="https://github-metrics.vercel.app/api?username=arakeshranjansahoo&template=classic&config.timezone=Asia%2FKolkata&config.display=large" alt="Metrics" />
 </p>
+
 
 ---
 
