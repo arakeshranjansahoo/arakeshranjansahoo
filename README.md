@@ -100,8 +100,17 @@ interests:
 ---
 
 ### 🚀 GitHub Activity Highlights 
-<p align="center"> <img src="https://img.shields.io/github/followers/arakeshranjansahoo?label=Followers&style=for-the-badge" /> <img src="https://img.shields.io/github/stars/arakeshranjansahoo?label=Stars&style=for-the-badge" /> <img src="https://img.shields.io/github/last-commit/arakeshranjansahoo/BloodBond-AI?style=for-the-badge&label=Last%20Project%20Commit" />
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arakeshranjansahoo&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arakeshranjansahoo&theme=react-dark" />
+</p>
+
 ---
 
 ### 🔗 Let's Connect
