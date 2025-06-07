@@ -106,10 +106,13 @@ interests:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
 </p>
 
-<h3 align="center">📊 GitHub Activity Metrics</h3>
+<h3>🌆 GitHub Skyline</h3>
 <p align="center">
-  <img src="https://github-metrics.vercel.app/api?username=arakeshranjansahoo&template=classic&config.timezone=Asia%2FKolkata&config.display=large" alt="Metrics" />
+  <a href="https://skyline.github.com/arakeshranjansahoo">
+    <img src="https://github.com/arakeshranjansahoo/arakeshranjansahoo/raw/main/assets/skyline-preview.png" width="600" alt="Click to see my 3D GitHub Skyline" />
+  </a>
 </p>
+
 
 
 ---
