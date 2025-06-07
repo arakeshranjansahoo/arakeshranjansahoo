@@ -95,15 +95,16 @@ interests:
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Visual Activity
 
+<h4 align="center">🌈 Contributions Calendar</h4>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arakeshranjansahoo&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arakeshranjansahoo&theme=radical" height="180px"/>
+  <img src="https://github-contributions-api.deno.dev/arakeshranjansahoo.svg" />
 </p>
 
+<h4 align="center">📈 Metrics Dashboard</h4>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arakeshranjansahoo&theme=react-dark" />
+  <img src="https://github-metrics.vercel.app/api?username=arakeshranjansahoo&template=classic&config.timezone=Asia%2FKolkata" />
 </p>
 
 ---
