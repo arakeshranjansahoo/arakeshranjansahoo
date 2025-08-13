@@ -17,6 +17,8 @@ education: B.Tech in Computer Science (CGPA: 8.4)
 interests:
   - Artificial Intelligence
   - Deep Learning
+  - Data Science
+  - Data Analytics
   - Full Stack Apps
   - Cloud & DevOps
 ````
