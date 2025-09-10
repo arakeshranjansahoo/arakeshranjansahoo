@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ A Rakesh Ranjan Sahoo ✨</h1>
-<h3 align="center">🚀 AI | Data Science | Full Stack Explorer | ML Enthusiast</h3>
+<h3 align="center">🚀 AI | Data Science | Full Stack Explorer | ML Enthusiast | Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+AI-Powered+Solutions...;Learning+Relentlessly...;Open+for+Collaboration!" alt="Typing animation" />
@@ -33,8 +33,16 @@ interests:
 ### 🧰 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,mongodb,streamlit,flutter,azure,git,github,jupyter,vscode,tableau" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,mongodb,react,azure,git,github,vscode" />
+
+  <!-- Custom icons -->
+  <img src="https://img.icons8.com/color/96/000000/ms-excel.png" width="48" alt="Excel"/>
+  <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48" alt="Tableau"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="100" alt="Streamlit"/>
+  <img src="https://img.icons8.com/color/96/000000/flutter.png" width="48" alt="Flutter"/>
 </div>
+
 
 ---
 
